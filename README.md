@@ -72,8 +72,10 @@ Type | Description
 [`youtube`](https://youtube.com/@morektz) | Memes, Tutorials, and other general creativity 
 [`Encoded Ascii Art`](https://mumbai.polygonscan.com/tx/0x8f4adf79ae4a505a7cc27b6d8c33c3106e56240750be9a070b88d3e95ad3dba5) | Ascii art encoded in a tx on polygon
 [`Deployed ERC721 NFT Contract - Mintable NFT's`](https://mumbai.polygonscan.com/address/0xeb68cb48fee659cbdbdc0f147962a1863f913462) | verified contract deployed to mumbai scan, using [`foundry`](https://github.com/foundry-rs/foundry)
+[`Opensea Testnet - Mumbai`](https://testnets.opensea.io/collection/morektz) | View collection on OpenSea testnet 
+[`Rarible Testnet - Mumbai`](https://testnet.rarible.com/collection/polygon/0xeb68cb48fee659cbdbdc0f147962a1863f913462/items) | View collections and activity on Rarible testnet 
 
 # Help me out bro !
 
 
-👠
+👠 

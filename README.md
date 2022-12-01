@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://bit.ly/morektz"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FBNW-S2-MOREKTZ-APPLICATION&count_bg=%23000000&title_bg=%23000000&icon=mailchimp.svg&icon_color=%2300FF25&title=hits&edge_flat=false"/></a>
+</p>
+
+
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
   <img src=mktz.gif alt="Morektz" width="200"></a>
 </p>

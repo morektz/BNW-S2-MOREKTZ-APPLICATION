@@ -16,6 +16,7 @@
    4. [If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) \*](#if-you-had-to-tell-someone-your-life-story-in-a-tweet-what-would-it-be-2-4-sentences-)
    5. [Why do you want to do this? (2-4 sentences) \*](#why-do-you-want-to-do-this-2-4-sentences-)
    6. [What have you built in the past?](#what-have-you-built-in-the-past)
+4. [Help me out bro !](#help-me-out-bro-)
 ----
 
 # Repo Description 
@@ -44,7 +45,8 @@
 
 ## If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) *
 
-> Passionately curious broke ass guy who loves to learn
+> Passionately curious broke ass guy who loves to learn, 
+> I GOT NO MONEY and NO HONEY 😭
 
 ## Why do you want to do this? (2-4 sentences) *
 
@@ -58,6 +60,15 @@ Glad you asked-
 1. I am not a developer per say. 
 2. I only began learning about web 3 technologies and have been involved in this space from a non technical aspect. But now I want to learn to become more technical. 
 
-The following are some of the work which I can showcase 
+The following are some of the work which I can showcase (non development related)
 
-👡
+Type | Description 
+|:--:|:--:|
+[`youtube`](https://youtube.com/@morektz) | Memes, Tutorials, and other general creativity 
+[`Encoded Ascii Art`](https://mumbai.polygonscan.com/tx/0x8f4adf79ae4a505a7cc27b6d8c33c3106e56240750be9a070b88d3e95ad3dba5) | Ascii art encoded in a tx on polygon
+[`Deployed ERC721 NFT Contract - Mintable NFT's`](https://mumbai.polygonscan.com/address/0xeb68cb48fee659cbdbdc0f147962a1863f913462) | verified contract deployed to mumbai scan, using [`foundry`](https://github.com/foundry-rs/foundry)
+
+# Help me out bro !
+
+
+👠

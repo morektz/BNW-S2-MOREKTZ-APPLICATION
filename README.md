@@ -1,6 +1,5 @@
-
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-  <img src=https://i.ibb.co/QpLxTJX/mktz.gif alt="Morektz" width="200"></a>
+  <img src=mktz.gif alt="Morektz" width="200"></a>
 </p>
 
 
@@ -9,7 +8,8 @@
 
 ----
 1. [Repo Description](#repo-description)
-2. [Airtable Answers ?](#airtable-answers-)
+2. [Contact Information](#contact-information)
+3. [Airtable Answers ?](#airtable-answers-)
    1. [What is your first name](#what-is-your-first-name)
    2. [Where are you based ?](#where-are-you-based-)
    3. [Which Best describes you ?](#which-best-describes-you-)
@@ -21,6 +21,12 @@
 # Repo Description 
 
 1. This repository serves to be the application submission for the [`Season2 - Buildspace Nights and Weekend`](https://buildspace.so/nights-and-weekends)
+
+# Contact Information 
+
+> In true Hacker fashion you can find my details encoded in the following tx -->
+
+[`https://sepolia.etherscan.io/tx/0x38a50a06862a9706658023f0cfab197e56d7283348d91d755ba4ffe04d239bda`](https://sepolia.etherscan.io/tx/0x38a50a06862a9706658023f0cfab197e56d7283348d91d755ba4ffe04d239bda)
 
 # Airtable Answers ?
 

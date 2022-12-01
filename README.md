@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-  <img src=https://i.ibb.co/QpLxTJX/mktz.gif alt="Morektz" width=200></a>
+  <img src=https://i.ibb.co/QpLxTJX/mktz.gif alt="Morektz" width="200"></a>
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://bit.ly/morektz"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FBNW-S2-MOREKTZ-APPLICATION&count_bg=%23000000&title_bg=%23000000&icon=mailchimp.svg&icon_color=%2300FF25&title=hits&edge_flat=false"/></a>
+<a href="https://bit.ly/morektz"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FBNW-S2-MOREKTZ-APPLICATION&count_bg=%23000000&title_bg=%23000000&icon=mailchimp.svg&icon_color=%2300FF25&title=hits&edge_flat=false"/ target="_blank"></a>
 </p>
 
 
@@ -12,39 +12,39 @@
 <h2 align="center"> Application Repo by morektz@gmail.com</h2>
 
 ----
-1. [Repo Description](#repo-description)
-2. [Contact Information](#contact-information)
-3. [Airtable Answers ?](#airtable-answers-)
-   1. [What is your first name](#what-is-your-first-name)
-   2. [Where are you based ?](#where-are-you-based-)
-   3. [Which Best describes you ?](#which-best-describes-you-)
+1. [🐒Repo Description](#repo-description)
+2. [🐒Contact Information](#contact-information)
+3. [🐒Airtable Answers ?](#airtable-answers-)
+   1. [🙈 What is your first name](#-what-is-your-first-name)
+   2. [🙈 Where are you based ?](#-where-are-you-based-)
+   3. [🙈 Which Best describes you ?](#-which-best-describes-you-)
    4. [If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) \*](#if-you-had-to-tell-someone-your-life-story-in-a-tweet-what-would-it-be-2-4-sentences-)
-   5. [Why do you want to do this? (2-4 sentences) \*](#why-do-you-want-to-do-this-2-4-sentences-)
-   6. [What have you built in the past?](#what-have-you-built-in-the-past)
-4. [Help me out bro !](#help-me-out-bro-)
+   5. [🙈 Why do you want to do this? (2-4 sentences) \*](#-why-do-you-want-to-do-this-2-4-sentences-)
+   6. [🙈 What have you built in the past?](#-what-have-you-built-in-the-past)
+4. [🐒Help me out bro !](#help-me-out-bro-)
 ----
 
-# Repo Description 
+# 🐒Repo Description 
 
 1. This repository serves to be the application submission for the [`Season2 - Buildspace Nights and Weekend`](https://buildspace.so/nights-and-weekends)
 
-# Contact Information 
+# 🐒Contact Information 
 
 > In true Hacker fashion you can find my details encoded in the following tx -->
 
 [`https://sepolia.etherscan.io/tx/0x38a50a06862a9706658023f0cfab197e56d7283348d91d755ba4ffe04d239bda`](https://sepolia.etherscan.io/tx/0x38a50a06862a9706658023f0cfab197e56d7283348d91d755ba4ffe04d239bda)
 
-# Airtable Answers ?
+# 🐒Airtable Answers ?
 
-## What is your first name 
+## 🙈 What is your first name 
 
 > Morektz
 
-## Where are you based ?
+## 🙈 Where are you based ?
 
-> Twitteria 😉 - In all seriousness lets me internet citizens 
+> Twitteria 😉 - In all seriousness lets be web apes 
 
-## Which Best describes you ?
+## 🙈 Which Best describes you ?
 
 > Unemployed noob coder learning about the possibilities of web3 and blockchain 
 
@@ -53,13 +53,13 @@
 > Passionately curious broke ass guy who loves to learn, 
 > I GOT NO MONEY and NO HONEY 😭
 
-## Why do you want to do this? (2-4 sentences) *
+## 🙈 Why do you want to do this? (2-4 sentences) *
 
 > 1. Become an expert in web3 tech to the point of being able to build out a usable application that can help me earn money on an independent basis
 > 2. To be involved in open source projects to further progress web3 technologies 
 > 3. Meet cool peepz 
 
-## What have you built in the past? 
+## 🙈 What have you built in the past? 
 
 Glad you asked-
 1. I am not a developer per say. 
@@ -75,7 +75,7 @@ Type | Description
 [`Opensea Testnet - Mumbai`](https://testnets.opensea.io/collection/morektz) | View collection on OpenSea testnet 
 [`Rarible Testnet - Mumbai`](https://testnet.rarible.com/collection/polygon/0xeb68cb48fee659cbdbdc0f147962a1863f913462/items) | View collections and activity on Rarible testnet 
 
-# Help me out bro !
+# 🐒Help me out bro !
 
 
 👠 
@@ -83,7 +83,7 @@ Type | Description
 
 <p align="center"><code>Donate Anonymously</code> </p>
 <p align="center"> 
-<a href="https://rentry.co/32csx">
+<a href="https://rentry.co/32csx" target="_blank">
 <img src="https://edge.app/wp-content/uploads/2018/07/monero-symbol-1280.png" width="50"> </img>
 </a>
 </p>

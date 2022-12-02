@@ -79,3 +79,12 @@ Type | Description
 
 
 👠 
+
+
+<p align="center"><code>Donate Anonymously for Honey Fund</code> </p>
+<p align="center"> 
+<a href="https://rentry.co/32csx">
+<img src="https://edge.app/wp-content/uploads/2018/07/monero-symbol-1280.png" width="50"> </img>
+</a>
+</p>
+<p align="center"><code> Honey Fund</code> </p>

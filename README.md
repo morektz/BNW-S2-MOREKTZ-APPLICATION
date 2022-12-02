@@ -18,7 +18,7 @@
    1. [🙈 What is your first name](#-what-is-your-first-name)
    2. [🙈 Where are you based ?](#-where-are-you-based-)
    3. [🙈 Which Best describes you ?](#-which-best-describes-you-)
-   4. [If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) \*](#if-you-had-to-tell-someone-your-life-story-in-a-tweet-what-would-it-be-2-4-sentences-)
+   4. [🙈 If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) \*](#-if-you-had-to-tell-someone-your-life-story-in-a-tweet-what-would-it-be-2-4-sentences-)
    5. [🙈 Why do you want to do this? (2-4 sentences) \*](#-why-do-you-want-to-do-this-2-4-sentences-)
    6. [🙈 What have you built in the past?](#-what-have-you-built-in-the-past)
 4. [🐒Help me out bro !](#help-me-out-bro-)
@@ -48,7 +48,7 @@
 
 > Unemployed noob coder learning about the possibilities of web3 and blockchain 
 
-## If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) *
+## 🙈 If you had to tell someone your life story in a tweet, what would it be? (2-4 sentences) *
 
 > Passionately curious broke ass guy who loves to learn, 
 > I GOT NO MONEY and NO HONEY 😭
